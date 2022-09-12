@@ -4,7 +4,7 @@
 
 Click on the "code" button at the top, then on the HTTPS section which displays the following url :
 
-                https://github.com/belarif/chalets-et-caviar.git 
+                https://github.com/belarif/chalets-et-caviar-belarif.git 
 
 copy this url to install the project locally.
 
@@ -17,7 +17,7 @@ application.
 
 On the same path, type the following command to clone the project :
 
-                git clone https://github.com/belarif/chalets-et-caviar.git
+                git clone https://github.com/belarif/chalets-et-caviar-belarif.git
 
 After executing the command, the project will be copied to the 'www' directory
 

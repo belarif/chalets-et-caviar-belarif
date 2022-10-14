@@ -25,13 +25,13 @@ After executing the command, the project will be copied to the 'www' directory
 
 2.1 from your SGBD, create a new database to name "chalets-caviar-1" 
 
-2.2 import the database.sql file located at the root of the project
+2.2 import the database.sql file located at the root of the project in database.sql.zip folder
 
 ### 3. Run application
 
 3.1 homepage : http://localhost/chalets-et-caviar-belarif/ 
 
-3.2 back-office : https://chalets-et-caviar-belarif.000webhostapp.com/chalets-e_t-caviar_adm
+3.2 back-office : http://localhost/chalets-et-caviar-belarif/chalets-e_t-caviar_adm/
     
 3.2.1 back office login : 
 

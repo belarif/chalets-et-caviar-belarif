@@ -35,7 +35,7 @@ After executing the command, the project will be copied to the 'www' directory
     
 3.2.1 back office login : 
 
-        - identifier : belarif
+        - identifier : dubois
 
-        - password : adminadmin
+        - password : directrice-2021
                 
